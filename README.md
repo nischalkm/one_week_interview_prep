@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to One Week INterview Preparation
 
-You can use the [editor on GitHub](https://github.com/nischalkm/one_week_interview_prep/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Well this does guarantee to cover every aspect but yeah it helps to quickly revise all those important terms and some last minute things which you always forget.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Feel free to submit a pr.
 
-### Markdown
+Topics which are currently covered are:-
+### C#
+### Javascript
+### HTML and CSS
+### Some miscellaneous questions
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+###C#
 
 ```markdown
-Syntax highlighted code block
+#Start with OOPS concepts
 
-# Header 1
-## Header 2
-### Header 3
+###Classes
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nischalkm/one_week_interview_prep/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
