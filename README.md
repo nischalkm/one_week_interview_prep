@@ -1,4 +1,4 @@
-## Welcome to One Week INterview Preparation
+## Welcome to One Week Interview Preparation
 
 Well this does guarantee to cover every aspect but yeah it helps to quickly revise all those important terms and some last minute things which you always forget.
 
@@ -10,10 +10,12 @@ Topics which are currently covered are:-
 - ### HTML and CSS
 - ### Some miscellaneous questions
 
-### C#
+- ### C#
+
+
+- #OOPS Concepts
 
 ```markdown
-
 Classes
 
 ```
