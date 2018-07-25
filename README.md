@@ -10,12 +10,13 @@ Topics which are currently covered are:-
 - ### HTML and CSS
 - ### Some miscellaneous questions
 
-- ### C#
 
-
-- #OOPS Concepts
-
-```markdown
-Classes
-
-```
+- C#:
+  - OOPS
+  - Events and Delegates
+  - Extension Method
+  - Ref and Out
+  - LINQ
+  - Lambda Expressions
+  - Access Modifiers
+  - Extras
