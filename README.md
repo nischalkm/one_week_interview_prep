@@ -5,16 +5,15 @@ Well this does guarantee to cover every aspect but yeah it helps to quickly revi
 Feel free to submit a pr.
 
 Topics which are currently covered are:-
-### C#
-### Javascript
-### HTML and CSS
-### Some miscellaneous questions
+- ### C#
+- ### Javascript
+- ### HTML and CSS
+- ### Some miscellaneous questions
 
-###C#
+### C#
 
 ```markdown
-#Start with OOPS concepts
 
-###Classes
+Classes
 
 ```
