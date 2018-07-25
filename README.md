@@ -6,12 +6,6 @@ Feel free to submit a pr.
 
 Topics which are currently covered are:-
 - ### C#
-- ### Javascript
-- ### HTML and CSS
-- ### Some miscellaneous questions
-
-
-- C#:
   - OOPS
   - Events and Delegates
   - Extension Method
@@ -20,3 +14,8 @@ Topics which are currently covered are:-
   - Lambda Expressions
   - Access Modifiers
   - Extras
+  
+  
+- ### Javascript
+- ### HTML and CSS
+- ### Some miscellaneous questions
